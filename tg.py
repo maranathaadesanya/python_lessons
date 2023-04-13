@@ -1,6 +1,6 @@
 MENU = ['abula', 'gbegiri', 'ewedu', 'pounded yam', 'egusi soup', 'ikokore',
         'ekuru', 'dambu nama', 'masa', 'tuwo', 'abacha', 'oha soup', 'ofe nsala', 'isi ewu',
-        'kunu', 'zobo', 'fruit', 'juice', 'soda', 'palm wine', 'tea', 'acha', 'tuwo masara', 'edikaikong', 'moimoi']
+        'kunu', 'zobo', 'fruit juice', 'soda', 'palm wine', 'tea', 'acha', 'tuwo masara', 'edikaikong', 'moimoi']
 
 print("Good day and welcome to XYZ restaurant! We serve:")
 
